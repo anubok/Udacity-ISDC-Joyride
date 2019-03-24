@@ -1,3 +1,6 @@
+Udacity Introduction to Self Driving Cars
+Project 1 - Joyride
+
 Joy Ride - Project Overview
 This is a quick project that gives you a chance to write code that controls a simulated car. This project has three parts (but you will only submit part three).
 
